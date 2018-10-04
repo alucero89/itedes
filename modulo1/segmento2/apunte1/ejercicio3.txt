@@ -1,0 +1,20 @@
+Proceso numerosInversos
+	
+	Escribir "Ingrese número 1"
+	Leer numero1
+	
+	Escribir "Ingrese número 2"
+	Leer numero2
+	
+	Escribir "Ingrese número 3"
+	Leer numero3
+	
+	Escribir "Ingrese número 4"	
+	Leer numero4
+	
+	Escribir "Ingrese número 5"
+	Leer numero5
+	
+	Mostrar "Los números ingresados de manera inversa queda de la siguiente forma: " + numero5 + " " + numero4 + " " + numero3 + " " + numero2 + " " +  numero1
+
+FinProceso

@@ -1,0 +1,17 @@
+Proceso Comisaria
+
+	Escribir "¿Cuál es el barrio de la comisaria?"
+	Leer barrio
+	
+	Escribir "¿Cuál es su dirección?"
+	Leer dirección
+	
+	Escribir "¿Entre que calles? Escriba el nombre de la primera calle"
+	Leer calle1
+	
+	Escribir "Escriba el nombre de la segunda calle"
+	Leer calle2
+	
+	Mostrar "La dirección de la comisaria es " + dirección + " entre las calles "+ calle1 + " y " + calle2 + " ubicado en el barrio " + barrio
+
+FinProceso

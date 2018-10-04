@@ -1,0 +1,20 @@
+Proceso datosPersonales
+	
+	Escribir "Ingrese su nombre"
+	Leer nombre
+	
+	Escribir "Ingrese su apellido"
+	Leer apellido
+	
+	Escribir "Ingrese su DNI"
+	Leer dni
+	
+	Escribir "Ingrese su dirección"
+	leer direccion 
+	
+	Escribir "Ingrese su teléfono"
+	leer telefono
+	
+	Mostrar "Su nombre y apellido es " + nombre + " " + apellido + " su documento es " + dni + " vive en la dirección " + dirección + " y su teléfono es "+ telefono  
+
+FinProceso
