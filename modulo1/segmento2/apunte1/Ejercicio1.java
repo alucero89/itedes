@@ -6,18 +6,19 @@ public class Ejercicio1
 	{
 		Scanner keyboard = new Scanner(System.in);
 		
-		System.out.print("¿Cuál es el barrio de la comisaria?: ");
-		String location = keyboard.next();
+		System.out.print("Cual es el barrio de la comisaria: ");
+		String location = keyboard.nextLine();
 		
-		System.out.print("¿Cuál es su dirección?: ");
-		String address = keyboard.next();
+		System.out.print("Cual es su direccion: ");
+		
+		String address = keyboard.nextLine();
 	
-		System.out.print("¿Entre que calles? Escriba el nombre de la primera calle: ");
-		String street1= keyboard.next();
+		System.out.print("Entre que calles. Escriba el nombre de la primera calle: ");
+		String street1= keyboard.nextLine();
 		
 		System.out.print("Escriba el nombre de la segunda calle: ");
-		String street2= keyboard.next();
+		String street2= keyboard.nextLine();
 		
-		System.out.println("La dirección de la comisaria es "+ address + " entre las calles "+ street1 + " y " + street2 + " ubicado en el barrio " + location);
+		System.out.println("La direccion de la comisaria es "+ address + " entre las calles "+ street1 + " y " + street2 + " ubicado en el barrio " + location);
 	}
 }

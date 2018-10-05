@@ -7,11 +7,11 @@ public class Ejercicio4
 		Scanner keyboard = new Scanner(System.in);
 		
 		int num1;
-		System.out.print("Ingrese el primer número: ");
+		System.out.print("Ingrese el primer numero: ");
 		num1 = keyboard.nextInt();
 		
 		int num2;
-		System.out.print("Ingrese el segundo número: ");
+		System.out.print("Ingrese el segundo numero: ");
 		num2 = keyboard.nextInt();
 		
 		int result;
