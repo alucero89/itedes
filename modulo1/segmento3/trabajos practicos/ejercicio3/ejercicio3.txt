@@ -1,0 +1,8 @@
+Proceso ejercicio3
+	Escribir "Ingrese su género: "
+	Leer genero
+	
+	Si ( genero = "Femenino" O genero = "femenino" )
+		Mostrar ("El usuario es Femenino.")
+	FinSi
+FinProceso

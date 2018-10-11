@@ -1,0 +1,11 @@
+D:\Adrian\Cursos\itedes\modulo1\segmento3\trabajos practicos\ejercicio1\ejercicio1.net\bin\Debug\netcoreapp2.1\ejercicio1.net.deps.json
+D:\Adrian\Cursos\itedes\modulo1\segmento3\trabajos practicos\ejercicio1\ejercicio1.net\bin\Debug\netcoreapp2.1\ejercicio1.net.runtimeconfig.json
+D:\Adrian\Cursos\itedes\modulo1\segmento3\trabajos practicos\ejercicio1\ejercicio1.net\bin\Debug\netcoreapp2.1\ejercicio1.net.runtimeconfig.dev.json
+D:\Adrian\Cursos\itedes\modulo1\segmento3\trabajos practicos\ejercicio1\ejercicio1.net\bin\Debug\netcoreapp2.1\ejercicio1.net.dll
+D:\Adrian\Cursos\itedes\modulo1\segmento3\trabajos practicos\ejercicio1\ejercicio1.net\bin\Debug\netcoreapp2.1\ejercicio1.net.pdb
+D:\Adrian\Cursos\itedes\modulo1\segmento3\trabajos practicos\ejercicio1\ejercicio1.net\obj\Debug\netcoreapp2.1\ejercicio1.net.csprojAssemblyReference.cache
+D:\Adrian\Cursos\itedes\modulo1\segmento3\trabajos practicos\ejercicio1\ejercicio1.net\obj\Debug\netcoreapp2.1\ejercicio1.net.csproj.CoreCompileInputs.cache
+D:\Adrian\Cursos\itedes\modulo1\segmento3\trabajos practicos\ejercicio1\ejercicio1.net\obj\Debug\netcoreapp2.1\ejercicio1.net.AssemblyInfoInputs.cache
+D:\Adrian\Cursos\itedes\modulo1\segmento3\trabajos practicos\ejercicio1\ejercicio1.net\obj\Debug\netcoreapp2.1\ejercicio1.net.AssemblyInfo.cs
+D:\Adrian\Cursos\itedes\modulo1\segmento3\trabajos practicos\ejercicio1\ejercicio1.net\obj\Debug\netcoreapp2.1\ejercicio1.net.dll
+D:\Adrian\Cursos\itedes\modulo1\segmento3\trabajos practicos\ejercicio1\ejercicio1.net\obj\Debug\netcoreapp2.1\ejercicio1.net.pdb

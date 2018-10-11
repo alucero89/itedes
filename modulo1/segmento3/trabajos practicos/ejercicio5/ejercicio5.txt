@@ -1,0 +1,11 @@
+Proceso ejercicio5
+	Escribir "Ingrese su genero: "
+	Leer genero
+	
+	Escribir "Ingrese su edad: "
+	Leer edad
+	
+	si ( (genero = "Masculino" O genero = "masculino") Y (edad >= 18) )
+		Mostrar ("Ud. es de genero masculino y es mayor de edad")
+	FinSi
+FinProceso

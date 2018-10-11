@@ -1,0 +1,8 @@
+Proceso ejercicio1
+	Escribir "Ingrese un número entero: "
+	Leer num
+	
+	Si ( num = 10 )
+			Mostrar ("El número ingresado es 10.")
+	FinSi
+FinProceso
