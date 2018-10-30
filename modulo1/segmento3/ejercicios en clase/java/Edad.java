@@ -5,7 +5,7 @@ public class Edad {
 		Scanner teclado = new Scanner(System.in);
 
 		System.out.println( "Cual es tu edad: " );
-		Integer edad = teclado.nextInt();
+		Integer edad = Integer.parse(teclado.nextLine());
 
 		if ( edad >= 18 ) {
 			System.out.print( "Ud. es mayor de edad." );

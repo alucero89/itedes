@@ -1,0 +1,11 @@
+/home/alucero/itedes/modulo1/segmento2/ejercicio5/ejercicio5.web/obj/Debug/netcoreapp2.1/ejercicio5.web.csprojAssemblyReference.cache
+/home/alucero/itedes/modulo1/segmento2/ejercicio5/ejercicio5.web/obj/Debug/netcoreapp2.1/ejercicio5.web.csproj.CoreCompileInputs.cache
+/home/alucero/itedes/modulo1/segmento2/ejercicio5/ejercicio5.web/obj/Debug/netcoreapp2.1/ejercicio5.web.AssemblyInfoInputs.cache
+/home/alucero/itedes/modulo1/segmento2/ejercicio5/ejercicio5.web/obj/Debug/netcoreapp2.1/ejercicio5.web.AssemblyInfo.cs
+/home/alucero/itedes/modulo1/segmento2/ejercicio5/ejercicio5.web/bin/Debug/netcoreapp2.1/ejercicio5.web.deps.json
+/home/alucero/itedes/modulo1/segmento2/ejercicio5/ejercicio5.web/bin/Debug/netcoreapp2.1/ejercicio5.web.runtimeconfig.json
+/home/alucero/itedes/modulo1/segmento2/ejercicio5/ejercicio5.web/bin/Debug/netcoreapp2.1/ejercicio5.web.runtimeconfig.dev.json
+/home/alucero/itedes/modulo1/segmento2/ejercicio5/ejercicio5.web/bin/Debug/netcoreapp2.1/ejercicio5.web.dll
+/home/alucero/itedes/modulo1/segmento2/ejercicio5/ejercicio5.web/bin/Debug/netcoreapp2.1/ejercicio5.web.pdb
+/home/alucero/itedes/modulo1/segmento2/ejercicio5/ejercicio5.web/obj/Debug/netcoreapp2.1/ejercicio5.web.dll
+/home/alucero/itedes/modulo1/segmento2/ejercicio5/ejercicio5.web/obj/Debug/netcoreapp2.1/ejercicio5.web.pdb

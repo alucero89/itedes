@@ -1,0 +1,23 @@
+Algoritmo ejercicio3
+	Escribir 'Ingrese un numero romano para la conversion a decimal'
+	Leer num
+	Segun num  Hacer
+		'I','i':
+			Escribir 'El numero romano ingresado es I y su conversion a decimal es 1'
+		'V','v':
+			Escribir 'El numero romano ingresado es V y su conversion a decimal es 5'
+		'X','x':
+			Escribir 'El numero romano ingresado es X y su conversion a decimal es 10'
+		'L','l':
+			Escribir 'El numero romano ingresado es L y su conversion a decimal es 50'			
+		'C','c':
+			Escribir 'El numero romano ingresado es C y su conversion a decimal es 100'			
+		'D','d':
+			Escribir 'El numero romano ingresado es D y su conversion a decimal es 500'			
+		'M','m':
+			Escribir 'El numero romano ingresado es M y su conversion a decimal es 1000'			
+		De Otro Modo:
+			Escribir 'Error, Ud. no ingreso un numero romano'
+	FinSegun
+FinAlgoritmo
+
