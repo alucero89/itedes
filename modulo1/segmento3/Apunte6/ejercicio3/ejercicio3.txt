@@ -1,0 +1,59 @@
+Algoritmo ejercicio3
+	
+	Escribir "Ingresar base"
+	Leer base
+	
+	Mientras base <= 0 Hacer
+		Repetir 
+			Escribir "Vuelva a ingresar una base superior a 0: "
+			Leer base
+		Hasta Que base > 0
+	FinMientras		
+		
+	Escribir "Ingresar altura"
+	Leer alt
+	
+	Mientras alt <= 0 Hacer
+		Repetir
+			Escribir "Vuelva a ingresar una altura superior a 0"
+			Leer alt
+		Hasta Que alt > 0
+	FinMientras
+	
+	area = base * alt
+	
+	Escribir "El areas es: ", area
+	
+	Escribir "¿Desea  calcular otra area? s/n"
+	Leer salir
+		
+	Mientras salir <> "n"	
+		Escribir "Ingresar base"
+		Leer base
+		
+		Mientras base <= 0 Hacer
+			Repetir 
+				Escribir "Vuelva a ingresar una base superior a 0: "
+				Leer base
+			Hasta Que base > 0
+		FinMientras		
+				
+		Escribir "Ingresar altura"
+		Leer alt
+		
+		Mientras alt <= 0 Hacer
+			Repetir
+				Escribir "Vuelva a ingresar una altura superior a 0"
+				Leer alt
+			Hasta Que alt > 0
+		FinMientras
+		
+		area = base * alt
+		
+		Escribir "El areas es: ", area
+		
+		Escribir "¿Desea  calcular otra area? s/n"
+		Leer salir
+	FinMientras
+FinAlgoritmo
+

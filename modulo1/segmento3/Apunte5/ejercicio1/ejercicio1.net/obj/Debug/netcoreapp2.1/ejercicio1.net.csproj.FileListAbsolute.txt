@@ -1,0 +1,11 @@
+/home/alucero/itedes/modulo1/segmento3/TrabajosPracticos/Apunte5/ejercicio1/ejercicio1.net/obj/Debug/netcoreapp2.1/ejercicio1.net.csprojAssemblyReference.cache
+/home/alucero/itedes/modulo1/segmento3/TrabajosPracticos/Apunte5/ejercicio1/ejercicio1.net/obj/Debug/netcoreapp2.1/ejercicio1.net.csproj.CoreCompileInputs.cache
+/home/alucero/itedes/modulo1/segmento3/TrabajosPracticos/Apunte5/ejercicio1/ejercicio1.net/obj/Debug/netcoreapp2.1/ejercicio1.net.AssemblyInfoInputs.cache
+/home/alucero/itedes/modulo1/segmento3/TrabajosPracticos/Apunte5/ejercicio1/ejercicio1.net/obj/Debug/netcoreapp2.1/ejercicio1.net.AssemblyInfo.cs
+/home/alucero/itedes/modulo1/segmento3/TrabajosPracticos/Apunte5/ejercicio1/ejercicio1.net/bin/Debug/netcoreapp2.1/ejercicio1.net.deps.json
+/home/alucero/itedes/modulo1/segmento3/TrabajosPracticos/Apunte5/ejercicio1/ejercicio1.net/bin/Debug/netcoreapp2.1/ejercicio1.net.runtimeconfig.json
+/home/alucero/itedes/modulo1/segmento3/TrabajosPracticos/Apunte5/ejercicio1/ejercicio1.net/bin/Debug/netcoreapp2.1/ejercicio1.net.runtimeconfig.dev.json
+/home/alucero/itedes/modulo1/segmento3/TrabajosPracticos/Apunte5/ejercicio1/ejercicio1.net/bin/Debug/netcoreapp2.1/ejercicio1.net.dll
+/home/alucero/itedes/modulo1/segmento3/TrabajosPracticos/Apunte5/ejercicio1/ejercicio1.net/bin/Debug/netcoreapp2.1/ejercicio1.net.pdb
+/home/alucero/itedes/modulo1/segmento3/TrabajosPracticos/Apunte5/ejercicio1/ejercicio1.net/obj/Debug/netcoreapp2.1/ejercicio1.net.dll
+/home/alucero/itedes/modulo1/segmento3/TrabajosPracticos/Apunte5/ejercicio1/ejercicio1.net/obj/Debug/netcoreapp2.1/ejercicio1.net.pdb

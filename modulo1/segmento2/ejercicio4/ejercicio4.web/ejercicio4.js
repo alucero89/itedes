@@ -1,9 +1,8 @@
 function sumar() {
-	var num1 = document.ElementById=("uno");
-	var num2 = document.ElementById=("dos");
-	var suma;
+	const num1 = document.getElementById('uno').value;
+	const num2 = document.getElementById('dos').value;
 	
-	suma = num1.value + num2.value;
+	const suma = parseInt(num1) + parseInt(num2);
 	
-	alert("El resultado de la suma es: " + suma.value);
+	alert(`El resultado de la suma es: ${suma}`);
 }

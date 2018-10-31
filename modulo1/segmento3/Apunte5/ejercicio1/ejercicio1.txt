@@ -1,0 +1,9 @@
+Algoritmo sin_titulo
+	Escribir Ingrese un numer
+	Leer num
+	Para i<-0 Hasta 10 Hacer
+		resultado <- num * i
+		Escribir num,'x',i,'=' resultado
+	FinPara
+FinAlgoritmo
+

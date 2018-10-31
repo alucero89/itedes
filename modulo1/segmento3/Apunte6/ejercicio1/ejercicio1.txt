@@ -1,0 +1,38 @@
+Algoritmo ejercicio1
+	Escribir 'Ingrese un numero menor o igual a 100: '
+	Leer num
+	
+	si (num <= 100)
+		
+		Escribir 'el numero ingresado es: ',num
+	
+		Escribir "¿Desea ingresar otro numero? s/n"
+		leer salir
+		
+	SiNo
+		Escribir "Numero superior a 100. ¿Desea ingresar otro numero? s/n"
+		leer salir
+		
+	FinSi
+	
+	
+	Mientras (salir <> "n") Hacer
+		
+		Escribir "Ingrese un numero menor o igual a 100: "
+		Leer num
+		
+		si (num <= 100)
+			Escribir 'el numero ingresado es: ',num
+			Escribir "¿Desea ingresar otro numero? s/n"
+			leer salir
+			
+		SiNo
+			Escribir "Numero superior a 100. ¿Desea ingresar otro numero? s/n"
+			leer salir
+		FinSi
+	FinMientras
+	
+	Escribir "Adios"
+	
+FinAlgoritmo
+

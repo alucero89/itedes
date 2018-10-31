@@ -1,0 +1,42 @@
+Algoritmo ejercicio2
+	
+	Escribir 'Para realizar la suma debe ingresar dos numeros'
+	
+	Escribir 'Primer numero: '
+	Leer num1
+	
+	Escribir 'Segundo numero: '
+	Leer num2
+	
+	res <- num1+num2
+	
+	Escribir 'El resultado es: ',res
+	
+	Escribir ''
+	
+	Escribir 'Presione enter para continuar de lo contrario presione la letra q'
+	Leer salir
+	
+	Mientras (salir<>'q') Hacer
+		
+		Escribir 'Primer numero: '
+		Leer num1
+		
+		Escribir 'Segundo numero: '
+		Leer num2
+		
+		res <- num1+num2
+		
+		Escribir 'El resultado es: ',res
+		
+		Escribir ''
+		
+		Escribir 'Presione enter para continuar de lo contrario presione la letra q'
+		Leer salir
+		
+	FinMientras
+	
+	Escribir 'Adios'
+	
+FinAlgoritmo
+
